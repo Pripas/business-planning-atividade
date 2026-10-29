@@ -1,5 +1,3 @@
-# business-planning-atividade
-
 ## Pesquisa de Mercado
 
 Foi realizada uma pesquisa nos sites oficiais de quatro soluções de controle e automação de estacionamentos disponíveis no mercado brasileiro. O objetivo foi identificar funcionalidades que possam orientar o levantamento de requisitos do projeto.
