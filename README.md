@@ -2,6 +2,13 @@
 
 Este repositório reúne a pesquisa de mercado, a entrevista, a modelagem do processo, o protótipo de entrada e o storyboard do projeto.
 
+## Integrantes
+
+Felipe Prioste Iraola — RM 576055
+Leonardo Nochi Martins — RM 568556
+Disciplina: Engenharia de Software — Business Systems Planning, Analysis & Design
+Professor: Prof. Me. Junior F. de Amaral
+
 ## Conteúdo
 
 - [Pesquisa de mercado](#pesquisa-de-mercado)
